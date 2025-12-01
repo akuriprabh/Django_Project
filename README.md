@@ -29,7 +29,6 @@ Admin can:
 - Clean Django admin dashboard
 
 ## Tech Stack
--Stack
 - Backend: Python + Django
 - Database: SQLite (ready for PostgreSQL/MySQL)
 - Frontend: HTML5, CSS3, Bootstrap 4
