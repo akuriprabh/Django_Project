@@ -42,7 +42,7 @@ Admin can:
 ## How to Run
 ```bash
 # 1. Clone the repo
-git clone https://github.com/akuriprabh/mygarmentsshop.git
+git clone https://github.com/akuriprabh/Django_Project.git
 cd mygarmentsshop
 
 # 2. Create and activate a virtual environment
