@@ -3,6 +3,9 @@
 GitHub: https://github.com/akuriprabh/mygarmentsshop
 Live Demo: Coming soon on Render 
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-5.0-green)](https://www.djangoproject.com)
+
 ## Overview
 A fully functional e-commerce website for selling shirts and bottom wear — my very first complete full-stack project, built in just 4 weeks during college.
 
