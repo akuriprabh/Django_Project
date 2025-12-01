@@ -1,6 +1,6 @@
 # My Garments Shop – Online Clothing Store (2019)
 
-GitHub: https://github.com/akuriprabh/mygarmentsshop
+GitHub: https://github.com/akuriprabh/Django_Project
 Live Demo: Coming soon on Render 
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org)
